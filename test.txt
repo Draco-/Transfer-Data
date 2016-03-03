@@ -1,0 +1,16 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'Dani Jensen - Submissive Slave.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    creation_time   : 2013-09-19 19:33:20
+    encoder         : Lavf53.24.0
+  Duration: 00:31:15.11, start: 0.000000, bitrate: 1101 kb/s
+    Stream #0:0(eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 750x420 [SAR 224:225 DAR 16:9], 1000 kb/s, 23.98 fps, 23.98 tbr, 1199 tbn, 47.96 tbc (default)
+    Metadata:
+      creation_time   : 2013-09-19 19:33:20
+      handler_name    : VideoHandler
+   Stream: #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 95 kb/s (default)
+   Metadata:
+      creation_time   : 2013-09-19 19:33:20
+      handler_name    : SoundHandler
